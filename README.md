@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aura1143</h1>
 
 <h3 align="left">Connect with me:</h3>
-  <a href="https://lapras.com/person">
+  <a href="https://lapras.com/public/UZPLDIL">
     <img src="https://user-images.githubusercontent.com/39142850/88427410-d0ca7200-ce2d-11ea-8d84-155f5a8bb63a.png" width="50px;" />
   </a>
 
