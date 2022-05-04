@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=9900ff&height=200&section=header&text=Welcome!!&animation=fadeIn&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=9900ff&height=150&section=header&text=Welcome!!&animation=fadeIn&fontSize=80)
 
 <h1 align="left">Hi 👋, I'm Aura1143</h1>
 
@@ -55,3 +55,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aura1143&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,000428,004e92&title_color=ffffff"/>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aura1143&hide_border=true&card_width=315&layout=compact&langs_count=5&text_color=ffffff&icon_color=ffffff&bg_color=0,004e92,000428&title_color=ffffff"/>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=Slice&color=9900ff&height=150&section=footer)
