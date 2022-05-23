@@ -3,9 +3,14 @@
 <h1 align="left">Hi 👋, I'm Aura1143</h1>
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://lapras.com/public/UZPLDIL">
     <img src="https://user-images.githubusercontent.com/39142850/88427410-d0ca7200-ce2d-11ea-8d84-155f5a8bb63a.png" width="50px;" />
   </a>
+  <a href="https://twitter.com/aura1143" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aura1143"                      height="50" width="40" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
