@@ -46,7 +46,10 @@
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/>
-  </a> 
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/81360876/171396546-9e7894b1-9e6d-481f-9005-82f0b8ce5f2b.svg" alt="netlify" width="50" height="50"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
   </a>
