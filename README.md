@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=9900ff&height=150&section=header&text=Welcome!!&animation=fadeIn&fontSize=80)
 
-<h1 align="left">
+<h1 align="center">
   Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 , I'm Aura1143
