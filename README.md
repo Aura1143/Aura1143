@@ -32,7 +32,10 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  </a> 
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/81360876/173191070-85b884b8-2310-4d23-90d0-82b134d4b4f5.svg" alt="plotly" width="50" height="50"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   </a>
@@ -59,6 +62,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/81360876/173191599-ee0eee53-7fab-41bf-a177-7fb662116dc9.svg" alt="google-analytics" width="50" height="50"/>
   </a>
 </p>
 
