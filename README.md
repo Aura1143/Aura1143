@@ -67,6 +67,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/81360876/176209645-bb02ad1b-4535-41e4-a2ba-348fe5f156bc.svg" alt="markdown" width="50" height="50"/>
+  </a>
   <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/81360876/173191599-ee0eee53-7fab-41bf-a177-7fb662116dc9.svg" alt="google-analytics" width="50" height="50"/>
   </a>
