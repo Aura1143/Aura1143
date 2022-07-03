@@ -11,14 +11,20 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://lapras.com/public/UZPLDIL">
-    <img src="https://user-images.githubusercontent.com/81360876/169790418-42f10c90-715a-4768-932c-37144d508b27.svg" width="50px;" />
-  </a>
-  <a href="https://twitter.com/aura1143" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aura1143"                      height="60" width="40" />
-  </a>
-</p>
+<table>
+ <tr>
+  <td align="center">
+   <a href="https://lapras.com/public/UZPLDIL" target="blank">
+    <img src="https://user-images.githubusercontent.com/81360876/169790418-42f10c90-715a-4768-932c-37144d508b27.svg" alt="lapras" width="40" />
+   </a>
+  </td>
+  <td align="center">
+   <a href="https://twitter.com/aura1143" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aura1143" width="40" />
+   </a>
+  </td>
+ </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
